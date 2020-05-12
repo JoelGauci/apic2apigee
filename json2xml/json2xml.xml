@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="json2xml">
+    <Basepaths>/v1/json2xml</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1570550455678</CreatedAt>
+    <CreatedBy>defaultUser</CreatedBy>
+    <Description></Description>
+    <DisplayName>json2xml</DisplayName>
+    <LastModifiedAt>1589287223497</LastModifiedAt>
+    <LastModifiedBy>defaultUser</LastModifiedBy>
+    <ManifestVersion>SHA-512:04fa0dc29ec691a952469980e7f8f71b95bb34da4442820cf3a499e3503b6bcaece40c7ed3be2f36f40bc488f4ed24b17dc5a4eb7548027978bb9f382d7a6c1e</ManifestVersion>
+    <Policies>
+        <Policy>J2X-Json2Xml</Policy>
+        <Policy>mappingJson</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://mappingJson.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
